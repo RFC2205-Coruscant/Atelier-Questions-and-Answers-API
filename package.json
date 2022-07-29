@@ -1,0 +1,26 @@
+{
+  "name": "atelier-questions-and-answers-api",
+  "version": "1.0.0",
+  "description": "Project Atelier Questions and Answers API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RFC2205-Coruscant/Atelier-Questions-and-Answers-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RFC2205-Coruscant/Atelier-Questions-and-Answers-API/issues"
+  },
+  "homepage": "https://github.com/RFC2205-Coruscant/Atelier-Questions-and-Answers-API#readme",
+  "dependencies": {
+    "pg": "^8.7.3",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.21.3",
+    "sequelize-cli": "^6.4.1"
+  }
+}
